@@ -1,3 +1,6 @@
+![image](https://github.com/summerdaway/MOST/blob/master/readme.png)
+
+
 ## 算法
 
 给出长度 $N$ 、正整数 $M$ 、数字串 $S$ ，从 $S$ 中找到长度不超过 $N$ 且可以被 $M$ 整除的所有子串
