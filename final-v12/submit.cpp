@@ -280,6 +280,8 @@ int main()
     
     processor1.update_stats(pos[pos_k], buffer[pos_k]);
     processor2.update_stats(pos[pos_k], buffer[pos_k]);
+    processor3.update_stats(pos[pos_k], buffer[pos_k]);
+    processor4.update_stats(pos[pos_k], buffer[pos_k]);
     printf("finish init\n");
 
     // main loop
